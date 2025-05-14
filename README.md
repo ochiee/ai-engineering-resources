@@ -127,5 +127,5 @@ Research papers for software engineers to transition to AI Engineering
 - [uber queryGPT](https://www.uber.com/en-IN/blog/query-gpt/)
 
 ## More Resources
-I manage my full list of software engineering resources here: https://interviewready.io/resources/
+I manage my lists here: https://interviewready.io/resources/
 
