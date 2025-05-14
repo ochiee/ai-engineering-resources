@@ -1,15 +1,18 @@
 # AI Engineering Transition Path
 Research papers for software engineers to transition to AI Engineering
 
-## Vectorization
+## Tokenization
 
 - [Byte-pair Encoding](https://arxiv.org/pdf/1508.07909)
+- [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)
+
+## Vectorization
+
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
 - [IMAGEBIND: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665)
 - [SONAR: Sentence-Level Multimodal and Language-Agnostic Representations](https://arxiv.org/pdf/2308.11466)
 - [FAISS library](https://arxiv.org/pdf/2401.08281)
 - [Facebook Large Concept Models](https://arxiv.org/pdf/2412.08821v2)
-- [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)
 
 ## Infrastructure
 
