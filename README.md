@@ -33,7 +33,7 @@ Research papers for software engineers to transition to AI Engineering
 
 ## Mixture of Experts
 
-- Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538)
+- [Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538)
 - [GShard](https://arxiv.org/abs/2006.16668)
 - [Switch Transformers](https://arxiv.org/abs/2101.03961)
 
@@ -86,9 +86,9 @@ Research papers for software engineers to transition to AI Engineering
 
 ## Competition Models
 
-- [google math Olympiad 2](https://arxiv.org/pdf/2502.03544)
+- [Google Math Olympiad 2](https://arxiv.org/pdf/2502.03544)
 - [Competitive Programming with Large Reasoning Models](https://arxiv.org/pdf/2502.06807)
-- [google math Olympiad 1](https://www.nature.com/articles/s41586-023-06747-5)
+- [Google Math Olympiad 1](https://www.nature.com/articles/s41586-023-06747-5)
 
 ## Hype Makers
 
