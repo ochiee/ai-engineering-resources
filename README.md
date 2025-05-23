@@ -46,7 +46,7 @@ Research papers for software engineers to transition to AI Engineering
 ## Chain of Thought
 
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
-- [Chain of thought](https://arxiv.org/pdf/2411.14405v1/)
+- [Chain of thought](https://arxiv.org/pdf/2411.14405v1)
 - [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373)
 
 ## Reasoning
