@@ -127,6 +127,7 @@ Research papers for software engineers to transition to AI Engineering
 - [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 - [uber queryGPT](https://www.uber.com/en-IN/blog/query-gpt/)
 
-## More Resources
-I manage my lists here: https://interviewready.io/course-page/ai-engineering
+## Video Course
+
+AI Engineering: https://interviewready.io/course-page/ai-engineering
 
