@@ -114,17 +114,20 @@ Research papers for software engineers to transition to AI Engineering
 - [Joint Embedding abstractions with self-supervised video masks](https://arxiv.org/pdf/2404.08471)
 - [Facebook VideoJAM ai gen](https://arxiv.org/pdf/2502.02492)
 
+## Context Engineering
+- [DSPy](https://arxiv.org/pdf/2310.03714)
+- [Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering](https://arxiv.org/pdf/2404.17723v1)
+- [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
+
 ## Case Studies
 
 - [Automated Unit Test Improvement using Large Language Models at Meta](https://arxiv.org/pdf/2402.09171)
-- [Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering](https://arxiv.org/pdf/2404.17723v1)
 - [OpenAI o1 System Card](https://arxiv.org/pdf/2412.16720)
 - [LLM-powered bug catchers](https://arxiv.org/pdf/2501.12862)
 - [Chain-of-Retrieval Augmented Generation](https://arxiv.org/pdf/2501.14342)
 - [Swiggy Search](https://bytes.swiggy.com/improving-search-relevance-in-hyperlocal-food-delivery-using-small-language-models-ecda2acc24e6)
 - [Swarm by OpenAI](https://github.com/openai/swarm)
 - [Netflix Foundation Models](https://netflixtechblog.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
-- [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 - [uber queryGPT](https://www.uber.com/en-IN/blog/query-gpt/)
 
 ## Video Course
